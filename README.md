@@ -1,5 +1,5 @@
 # BirdCLEF+ 2025 Kaggle Competition
-Species identification from audio, focused on birds, amphibians, mammals and insects from the Middle Magdalena Valley of Colombia.
+Kaggle Competition: Species identification from audio, focused on birds, amphibians, mammals and insects from the Middle Magdalena Valley of Colombia.
 
 # BirdCLEF2025 Model
 
